@@ -22,7 +22,7 @@ def last(arr, low, high, x) :
 	if high>=low: 
 		mid = (low+high)/2
 
-		if (arr[mid] == x and (mid == high or x<arr[mid+1])) : 
+		if (arr[mid] == x and (mid == high or x<arr[mid+1])): 
 			return mid 
 		elif x < arr[mid]: 
 			return last(arr, low, mid-1, x) 
