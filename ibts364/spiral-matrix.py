@@ -35,7 +35,7 @@ class Solution(object):
                 for col in reversed(range(cs, ce+1)):
                     result.append(matrix[re][col])
 
-                #reduce rows of matrix
+            #reduce rows of matrix
             re -= 1
 
             #bottom to top column-wise traverse.
