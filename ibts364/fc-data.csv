@@ -1,0 +1,5 @@
+step_id,sample_rate
+4c_sequence.HTHV.voltage.HIGH.Test1,100
+4c_sequence.HTLV.voltage.HIGH.Test1,100
+4c_sequence.LTHV.voltage.HIGH.Test1,100
+4c_sequence.LTLV.voltage.HIGH.Test1,100
