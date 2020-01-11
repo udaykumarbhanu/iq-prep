@@ -46,10 +46,10 @@ class Solution(object):
 
 if __name__ == '__main__':
     s = "baaaaa"
-    print  Solution().minMoves(s)
+    print Solution().minMoves(s)
 
     s = "baaabbaabbba"
     print  Solution().minMoves(s)
 
     s = "baabab"
-    print  Solution().minMoves(s)
+    print Solution().minMoves(s)
