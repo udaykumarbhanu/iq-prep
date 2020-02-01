@@ -47,5 +47,5 @@ class Solution(object):
 
         if left_lca and right_lca: return root
         elif left_lca: return left_lca
-        else: return  right_lca
+        else: return right_lca
 
